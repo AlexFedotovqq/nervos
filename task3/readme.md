@@ -1,4 +1,5 @@
 A screenshot of the console output immediately after you have successfully issued a smart contract call.
+![](https://github.com/AlexFedotovqq/nervos/blob/main/task3/smart.png)
 
 The transaction hash from the console output (in text format).
 ```0x35104e0d80168e043e414fdbae8acec1818227ceab09e2dd6f9e7568f0356dfc```
